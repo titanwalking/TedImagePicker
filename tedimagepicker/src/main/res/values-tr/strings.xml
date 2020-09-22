@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ted_image_picker_album_all">Tüm Albümler</string>
+    <string name="ted_image_picker_empty">Boş</string>
+    <string name="ted_image_picker_title">Fotoğraf Seçin</string>
+    <string name="ted_image_picker_done">Tamam</string>
+    <string name="ted_image_picker_max_count">Daha fazla ekleyemezsiniz</string>
+    <string name="ted_image_picker_min_count">Minimum sayıda fotoğraf seçmediniz.</string>
     <string name="permission_denied_title">İzin Reddedildi</string>
     <string name="permission_denied_rationale">Bu özelliği kullanabilmeniz için kamera izni vermeniz gerekmektedir. [Ayarlar] > [İzinler] ziyaret edin.</string>
 </resources>
