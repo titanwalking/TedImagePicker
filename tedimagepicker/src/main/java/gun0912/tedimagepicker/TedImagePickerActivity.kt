@@ -452,6 +452,7 @@ internal class TedImagePickerActivity : AppCompatActivity() {
         if (isAlbumOpened()) {
             closeAlbum()
         } else {
+            setResult(RESULT_CANCELED)
             super.onBackPressed()
         }
 
